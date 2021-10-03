@@ -1,0 +1,143 @@
+*{ margin: 0;
+    padding: 0;
+
+}
+body{
+  
+    background-color:rgb(253, 247, 247);
+    font-style: 
+   
+
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    color: turquoise;
+}
+ .containerr{
+     background-color: rgb(222, 231, 231);
+  
+    width: 1000px;
+    margin:0 auto;
+    padding: 20px;
+    
+ } 
+ .profile{
+    width: 100px;
+    height: 120px;
+    float: left;
+    border: 3px solid rgb(250, 238, 250);
+    border-radius: 50%;
+
+ }
+ .bio{ float: left;
+    padding: 30px;
+}
+
+ 
+ 
+ .contack{
+     float: right;
+     margin: 0 auto;
+     padding: 40px;
+     
+    
+   }
+.contack a{
+    text-decoration:none;
+    font-size: 15px;
+    color: #63E2DF;
+    
+}
+.contack a:hover{
+    background-color: tomato;
+    color: wheat;
+    text-decoration: underline;
+}
+ 
+.clear{
+    clear:both;
+    }
+.common-hr{  border: solid black ;
+
+        border-bottom:none;
+       margin: 20px auto;
+        width: 100%;
+        
+    }
+
+
+
+ 
+ .information{
+    float: left;
+    width: 30%;
+}
+
+
+
+
+ .a{
+   float: left;
+   width: 70%;
+    
+ }
+
+
+.clear{
+    clear: both;
+
+}
+
+
+.common-hr2{ border: solid black 1px;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.lecture-1{
+float: left;
+width: 30%;
+
+    
+}
+
+
+.lecture-2{ float: left;
+    width: 70%;
+    padding: top 1;
+}
+
+.lecture-3{
+    float: right;
+}
+
+
+
+
+
+.clear{
+    clear: both;
+
+}
+
+
+.common-hr3{ border: solid black 1px;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+.fotter-1{ 
+     text-align: center;
+     background-color: black;
+    padding: 10px;
+}
+.fotter a{
+    text-decoration: none;
+    color: cornsilk;
+    margin: 20px;
+}
+.fotter p{
+    color: cornsilk;padding-top: 10px;
+}
